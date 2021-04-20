@@ -1,0 +1,46 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100&display=swap');
+
+
+#item1{
+    background-image: url(https://www.today.it/~media/horizontal-hi/19015907780998/palestre-chiuse-ansa-2.jpg);
+}
+
+#item2{
+    background-image: url(https://magnifici7.com/wp-content/uploads/2019/07/photo-1559257619-ce02754770ee.jpeg);
+}
+
+#item3{
+    background-image: url(https://i2.wp.com/www.hsschool.it/wp-content/uploads/2020/04/Storia-del-Basket.jpg?fit=1240%2C600&ssl=1);
+}
+
+.Item{
+    min-height: 1000px;
+    background-position: center center;
+    background-size: cover;
+}
+
+.LnkC{
+    text-decoration: none;
+    background: rgb(84,176,170);
+    background: linear-gradient(90deg, rgba(84,176,170,0.8897934173669468) 4%, rgba(255,0,63,0.8897934173669468) 100%);
+    color: rgb(22, 22, 22);
+    font-size: 65px;
+    padding: 15px;
+    border-radius: 15px;
+    transition-property: background,color ;
+    transition-duration: 450ms;
+    font-family: 'Montserrat', sans-serif;
+    fo: 80px;
+}
+
+.LnkC:hover{
+    color: white;
+    background: rgb(84,176,170);
+    background: linear-gradient(90deg, rgba(255,0,63,0.8897934173669468) 4%, rgba(84,176,170,0.8897934173669468) 100%);
+    font-family: 'Montserrat', sans-serif;
+}
+
+#Riga{
+    height: 6px;
+}
+
