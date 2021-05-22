@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/shopgym/static/css/main.0ba5da3f.chunk.css",
+    "main.js": "/shopgym/static/js/main.fed44e22.chunk.js",
+    "main.js.map": "/shopgym/static/js/main.fed44e22.chunk.js.map",
+    "runtime-main.js": "/shopgym/static/js/runtime-main.e1c46b2a.js",
+    "runtime-main.js.map": "/shopgym/static/js/runtime-main.e1c46b2a.js.map",
+    "static/js/2.5d4ebdfc.chunk.js": "/shopgym/static/js/2.5d4ebdfc.chunk.js",
+    "static/js/2.5d4ebdfc.chunk.js.map": "/shopgym/static/js/2.5d4ebdfc.chunk.js.map",
+    "index.html": "/shopgym/index.html",
+    "static/css/main.0ba5da3f.chunk.css.map": "/shopgym/static/css/main.0ba5da3f.chunk.css.map",
+    "static/js/2.5d4ebdfc.chunk.js.LICENSE.txt": "/shopgym/static/js/2.5d4ebdfc.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e1c46b2a.js",
+    "static/js/2.5d4ebdfc.chunk.js",
+    "static/css/main.0ba5da3f.chunk.css",
+    "static/js/main.fed44e22.chunk.js"
+  ]
+}
